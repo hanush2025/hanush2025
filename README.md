@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<div align="center">
+    <p>
+        <img src="ganeshGit.gif" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
 <!--
 **hanush2025/hanush2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
